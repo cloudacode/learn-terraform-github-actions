@@ -15,7 +15,7 @@ terraform {
     organization = "cloudacode"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "learn-terraform-github-actions"
     }
   }
 }
